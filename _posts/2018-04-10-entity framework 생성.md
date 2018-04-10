@@ -5,7 +5,6 @@ title: entity FrameWork 1
 
 <html>
   <head>
-    <title>dfsdf</title>
   </head>
   
   <body>
