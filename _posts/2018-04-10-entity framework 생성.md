@@ -3,10 +3,9 @@ layout: post
 title: entity FrameWork 1
 ---
 
-<!DOCTYPE HTML>
 <html>
   <head>
-    <title>{{page.title}}</title>
+    <title>dfsdf</title>
   </head>
   
   <body>
