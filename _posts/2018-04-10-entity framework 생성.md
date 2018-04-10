@@ -1,6 +1,18 @@
 ---
 layout: post
-title: {{page.title}}
+title: entity FrameWork 1
 ---
 
-Tetsetsetstestset
+<!DOCTYPE>
+<html>
+  <head>
+    <title> {{page.title}} </title>
+  </head>
+  
+  
+  <body>
+  <h1> test </h1>
+  </body>
+  
+</html>
+
