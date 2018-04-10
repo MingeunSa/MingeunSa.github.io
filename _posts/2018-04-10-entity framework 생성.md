@@ -3,7 +3,7 @@ layout: post
 title: entity FrameWork 1
 ---
 
-<!DOCTYPE>
+<!DOCTYPE HTML>
 <html>
   <head>
     <title> {{page.title}} </title>
